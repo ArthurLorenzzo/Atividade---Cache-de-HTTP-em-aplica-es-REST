@@ -8,9 +8,9 @@ O cache tem um papel importante na melhoria do desempenho de aplicações web, p
 
 ## Como Funciona o Cache?
 
-1. **Armazenamento Rápido**: Os dados em cache são armazenados em hardware de acesso rápido, como a memória RAM. Isso permite que as solicitações sejam atendidas mais rapidamente, evitando o acesso à camada de armazenamento mais lenta.
+1. **Armazenamento Rápido**: Os dados em cache são armazenados em hardware de acesso rápido, como a memória RAM, pois isso permite que a resposta seja mais rápida, evitando o acesso à camada de armazenamento mais lenta.
 
-2. **Subconjunto Temporário**: O cache armazena um subconjunto de dados temporariamente, em comparação com bancos de dados completos e duráveis.
+2. **Subconjunto Temporário**: O cache armazena um subconjunto de dados temporariamente, em comparação com bancos de dados completos e com grande volumetria de dados.
 
 ## Implementando Cache em uma Aplicação REST com Flask
 
